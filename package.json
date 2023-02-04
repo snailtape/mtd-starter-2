@@ -1,5 +1,5 @@
 {
-  "name": "mtd-starter",
+  "name": "mtd-starter-2",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baileytrotter/mtd-starter.git"
+    "url": "git+https://github.com/baileytrotter/mtd-starter-2.git"
   },
   "keywords": [],
   "author": "",
   "license": "",
   "bugs": {
-    "url": "https://github.com/baileytrotter/mtd-starter/issues"
+    "url": "https://github.com/baileytrotter/mtd-starter-2/issues"
   },
-  "homepage": "https://github.com/baileytrotter/mtd-starter#readme",
+  "homepage": "https://github.com/baileytrotter/mtd-starter-2#readme",
   "dependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "commitlint": "^8.3.5",
