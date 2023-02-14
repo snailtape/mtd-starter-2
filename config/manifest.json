@@ -30,7 +30,8 @@
                 "filename": "4"
             }
         ],
-        "theme": "5",
-        "POS": "6"
+        "source": "5",
+        "POS": "6",
+        "definition": "7"
     }
 }
