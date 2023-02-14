@@ -30,8 +30,12 @@
                 "filename": "4"
             }
         ],
-        "source": "5",
-        "POS": "6",
-        "definition": "7"
+        "optional": [
+            {
+                "source": "5",
+                "POS": "6",
+                "definition": "7"
+            }
+        ]
     }
 }
