@@ -33,7 +33,7 @@
         "theme": "5",
         "optional": [
             {
-                "Part_of_speach": "6"
+                "part_of_speach": "6"
             }
         ]
     }
