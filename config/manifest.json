@@ -1,6 +1,6 @@
 {
     "file_type": "csv",
-    "name": "words",
+    "name": "data",
     "display": "word",
     "compare": "compare_form",
     "sorting": "sort_form",
@@ -33,7 +33,7 @@
         "theme": "5",
         "optional": [
             {
-                "Pronunciation": "6"
+                "Partofspeach": "6"
             }
         ]
     }
