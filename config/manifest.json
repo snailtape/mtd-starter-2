@@ -31,10 +31,6 @@
             }
         ],
         "theme": "5",
-        "optional": [
-            {
-                "part_of_speach": "6"
-            }
-        ]
+        "secondary_theme": "6"
     }
 }
