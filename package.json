@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baileytrotter/mtd-starter-2.git"
+    "url": "git+https://github.com/snailtape/mtd-starter-2.git"
   },
   "keywords": [],
   "author": "",
   "license": "",
   "bugs": {
-    "url": "https://github.com/baileytrotter/mtd-starter-2/issues"
+    "url": "https://github.com/snailtape/mtd-starter-2/issues"
   },
-  "homepage": "https://github.com/baileytrotter/mtd-starter-2#readme",
+  "homepage": "https://github.com/snailtape/mtd-starter-2#readme",
   "dependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "commitlint": "^8.3.5",
